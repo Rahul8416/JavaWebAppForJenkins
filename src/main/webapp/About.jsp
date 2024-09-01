@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>This is about Page</h1>
+<h2>This heading for checking the mail notification</h2>
 </body>
 </html>
